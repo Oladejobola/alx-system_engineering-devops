@@ -1,2 +1,1 @@
-#!/bin/bash
-'2 hellofile'
+hello world script
